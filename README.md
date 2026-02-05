@@ -2,7 +2,7 @@
 🚀 Live Preview
 
 (Add live link here if hosted)
-👉 https://cultreboat.in
+👉[ https://cultreboat.in](https://cultre-boat-jst2.vercel.app/)
 
 🎨 About the Project
 
